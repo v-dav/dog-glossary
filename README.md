@@ -2,6 +2,8 @@
 
 Welcome to **Dog Glossary**, a sleek and modern web application that allows you to explore various dog breeds and sub-breeds. This interactive app lets you fetch random dog images, search for specific breeds, and dive into the sub-breeds with just a click. All data is fetched dynamically from the [Dog CEO API](https://dog.ceo/dog-api/), ensuring a vast and up-to-date collection of dog images.
 
+## ✨ Live [Here](https://v-dav.github.io/dog-glossary/)
+
 ## ✨ Features
 
 - **Show Random Dog**: Fetches and displays a random dog image along with its breed name.
