@@ -53,35 +53,14 @@ You only need a modern web browser to run this app. No additional installations 
 4. **Show All Breeds**:
    - Click "Show All Breeds" to see a full list of all dog breeds. Breeds with sub-breeds have an arrow icon; click to expand and view sub-breeds, then click on a sub-breed to see its image.
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
+<img width="1178" alt="Skärmavbild 2024-08-21 kl  20 38 12" src="https://github.com/user-attachments/assets/1d9641d0-fa54-4fe1-9475-709cbc8c159a">
 
-### Main Interface
-
-![Main Interface](path-to-screenshot)
-
-### Sub-Breed List
-
-![Sub-Breed List](path-to-screenshot)
-
-### Random Dog Image
-
-![Random Dog Image](path-to-screenshot)
 
 ## 💡 Inspiration
 
 This project was inspired by the love for dogs and the desire to create an easy-to-use glossary for dog breeds. Whether you're a dog lover, a potential pet owner, or just curious about dog breeds, this app has something for everyone.
 
-## 📝 License
+## 📝 Author
+- Vladimir Davidov
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-Feel free to reach out with any questions or feedback:
-
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
-This README provides a comprehensive overview of your Dog Glossary app, including features, installation instructions, and usage guidelines. You can customize the contact information, screenshots, and any other details specific to your project.
