@@ -1,4 +1,5 @@
 # 🐾 Dog Glossary
+![chrome-capture-2024-8-24](https://github.com/user-attachments/assets/3d02bc51-88c4-421e-8064-d67582d4b2af)
 
 Welcome to **Dog Glossary**, a sleek and modern web application that allows you to explore various dog breeds and sub-breeds. This interactive app lets you fetch random dog images, search for specific breeds, and dive into the sub-breeds with just a click. All data is fetched dynamically from the [Dog CEO API](https://dog.ceo/dog-api/), ensuring a vast and up-to-date collection of dog images.
 
@@ -54,10 +55,6 @@ You only need a modern web browser to run this app. No additional installations 
 
 4. **Show All Breeds**:
    - Click "Show All Breeds" to see a full list of all dog breeds. Breeds with sub-breeds have an arrow icon; click to expand and view sub-breeds, then click on a sub-breed to see its image.
-
-## 🖼️ Screenshot
-<img width="1178" alt="Skärmavbild 2024-08-21 kl  20 38 12" src="https://github.com/user-attachments/assets/1d9641d0-fa54-4fe1-9475-709cbc8c159a">
-
 
 ## 💡 Inspiration
 
